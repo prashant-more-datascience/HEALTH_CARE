@@ -1,0 +1,501 @@
+bill_id,appointment_id,total_amount,payment_method,insurance_provider,payment_status
+1,1,53951,Insurance,MediSafe,Paid
+2,2,6320,Insurance,None,Paid
+3,3,46339,Cash,None,Paid
+4,4,58407,Cash,MediSafe,Paid
+5,5,25867,Insurance,MediSafe,Pending
+6,6,46947,Credit Card,None,Paid
+7,7,18849,Credit Card,Apollo Insurance,Paid
+8,8,55090,Insurance,CareHealth,Pending
+9,9,13303,UPI,Apollo Insurance,Paid
+10,10,41375,Cash,Apollo Insurance,Paid
+11,11,9706,Credit Card,CareHealth,Paid
+12,12,14806,Cash,MediSafe,Paid
+13,13,15495,Credit Card,MediSafe,Paid
+14,14,40575,Cash,Apollo Insurance,Pending
+15,15,25163,Insurance,CareHealth,Paid
+16,16,30835,Cash,CareHealth,Pending
+17,17,24044,Insurance,Apollo Insurance,Paid
+18,18,45279,Cash,MediSafe,Paid
+19,19,34407,Insurance,CareHealth,Pending
+20,20,15804,Insurance,None,Paid
+21,21,51468,Insurance,None,Pending
+22,22,24103,Cash,CareHealth,Pending
+23,23,50498,Credit Card,None,Pending
+24,24,36379,UPI,Apollo Insurance,Paid
+25,25,32811,Insurance,None,Paid
+26,26,35922,Insurance,None,Paid
+27,27,13645,UPI,MediSafe,Pending
+28,28,2974,Insurance,None,Paid
+29,29,7972,UPI,CareHealth,Pending
+30,30,46083,Cash,Apollo Insurance,Pending
+31,31,6334,Credit Card,Apollo Insurance,Pending
+32,32,46468,Insurance,CareHealth,Pending
+33,33,20940,UPI,MediSafe,Pending
+34,34,45827,Cash,CareHealth,Paid
+35,35,30678,Insurance,MediSafe,Pending
+36,36,11951,Credit Card,Apollo Insurance,Pending
+37,37,36536,Cash,MediSafe,Pending
+38,38,7527,Insurance,Apollo Insurance,Paid
+39,39,21066,UPI,MediSafe,Pending
+40,40,37557,UPI,None,Paid
+41,41,2564,Insurance,CareHealth,Paid
+42,42,21963,Credit Card,MediSafe,Pending
+43,43,15904,Credit Card,None,Pending
+44,44,41020,UPI,MediSafe,Paid
+45,45,10026,Cash,None,Pending
+46,46,52475,UPI,CareHealth,Paid
+47,47,19234,Insurance,MediSafe,Paid
+48,48,51602,UPI,Apollo Insurance,Paid
+49,49,22942,Insurance,CareHealth,Paid
+50,50,19479,Cash,Apollo Insurance,Paid
+51,51,47964,Credit Card,None,Pending
+52,52,40394,Cash,None,Paid
+53,53,7889,Insurance,MediSafe,Pending
+54,54,18772,UPI,None,Pending
+55,55,39459,Insurance,CareHealth,Pending
+56,56,27403,UPI,MediSafe,Paid
+57,57,55050,UPI,None,Pending
+58,58,43413,Credit Card,Apollo Insurance,Paid
+59,59,27681,UPI,Apollo Insurance,Paid
+60,60,31714,UPI,Apollo Insurance,Pending
+61,61,25714,UPI,None,Paid
+62,62,55553,Credit Card,CareHealth,Paid
+63,63,19583,Insurance,Apollo Insurance,Paid
+64,64,1623,Credit Card,CareHealth,Paid
+65,65,28287,Credit Card,None,Pending
+66,66,52624,UPI,Apollo Insurance,Pending
+67,67,46187,UPI,None,Paid
+68,68,25499,Cash,CareHealth,Paid
+69,69,21125,Credit Card,None,Pending
+70,70,23387,Credit Card,None,Pending
+71,71,39505,Cash,None,Pending
+72,72,59390,Credit Card,Apollo Insurance,Paid
+73,73,45007,Insurance,CareHealth,Paid
+74,74,33279,Cash,None,Paid
+75,75,46646,UPI,MediSafe,Paid
+76,76,43292,UPI,MediSafe,Paid
+77,77,50490,Cash,Apollo Insurance,Pending
+78,78,20583,Cash,None,Paid
+79,79,28006,Insurance,CareHealth,Paid
+80,80,47159,Cash,MediSafe,Pending
+81,81,54110,Cash,CareHealth,Pending
+82,82,9692,Insurance,CareHealth,Pending
+83,83,9700,Insurance,None,Pending
+84,84,49949,Credit Card,None,Pending
+85,85,14977,Credit Card,None,Paid
+86,86,46492,Credit Card,MediSafe,Pending
+87,87,53698,Credit Card,CareHealth,Pending
+88,88,57696,Insurance,Apollo Insurance,Paid
+89,89,46899,Credit Card,Apollo Insurance,Pending
+90,90,48510,Credit Card,MediSafe,Pending
+91,91,34126,Cash,MediSafe,Pending
+92,92,7982,Credit Card,CareHealth,Pending
+93,93,56885,Cash,None,Pending
+94,94,9870,Cash,CareHealth,Paid
+95,95,44879,Insurance,Apollo Insurance,Paid
+96,96,15354,Cash,None,Paid
+97,97,51446,UPI,Apollo Insurance,Paid
+98,98,3865,Cash,Apollo Insurance,Paid
+99,99,39771,Credit Card,MediSafe,Paid
+100,100,47307,Cash,MediSafe,Pending
+101,101,7753,UPI,CareHealth,Paid
+102,102,59710,Credit Card,Apollo Insurance,Pending
+103,103,49133,Credit Card,None,Paid
+104,104,6170,Cash,Apollo Insurance,Pending
+105,105,4025,Cash,CareHealth,Paid
+106,106,47620,Cash,MediSafe,Pending
+107,107,57243,Insurance,None,Paid
+108,108,58416,Credit Card,Apollo Insurance,Paid
+109,109,15700,UPI,None,Paid
+110,110,39420,Credit Card,MediSafe,Pending
+111,111,56451,UPI,None,Pending
+112,112,58605,Insurance,Apollo Insurance,Paid
+113,113,33777,Insurance,None,Paid
+114,114,15689,Credit Card,MediSafe,Pending
+115,115,45336,UPI,CareHealth,Paid
+116,116,27499,UPI,None,Paid
+117,117,53001,UPI,None,Paid
+118,118,12005,Credit Card,Apollo Insurance,Pending
+119,119,4644,Insurance,Apollo Insurance,Pending
+120,120,6883,Insurance,CareHealth,Pending
+121,121,48013,Cash,MediSafe,Pending
+122,122,40290,Credit Card,CareHealth,Pending
+123,123,58475,Cash,Apollo Insurance,Paid
+124,124,39325,Insurance,CareHealth,Paid
+125,125,58681,Insurance,Apollo Insurance,Pending
+126,126,44611,Cash,None,Pending
+127,127,46420,UPI,None,Pending
+128,128,43411,Cash,MediSafe,Paid
+129,129,20106,Insurance,Apollo Insurance,Pending
+130,130,44056,UPI,CareHealth,Paid
+131,131,6769,Credit Card,None,Paid
+132,132,20107,UPI,Apollo Insurance,Paid
+133,133,11496,Credit Card,None,Pending
+134,134,14861,UPI,MediSafe,Paid
+135,135,35666,Cash,CareHealth,Pending
+136,136,50340,Credit Card,CareHealth,Pending
+137,137,46681,Credit Card,Apollo Insurance,Paid
+138,138,11705,Credit Card,MediSafe,Pending
+139,139,7933,Insurance,MediSafe,Pending
+140,140,40226,Cash,MediSafe,Pending
+141,141,31968,Credit Card,MediSafe,Pending
+142,142,57948,Insurance,Apollo Insurance,Paid
+143,143,57308,Credit Card,MediSafe,Paid
+144,144,8122,UPI,MediSafe,Paid
+145,145,37971,UPI,CareHealth,Paid
+146,146,10123,UPI,MediSafe,Pending
+147,147,38636,UPI,Apollo Insurance,Paid
+148,148,45789,Credit Card,MediSafe,Paid
+149,149,57373,Insurance,CareHealth,Pending
+150,150,36255,Insurance,Apollo Insurance,Pending
+151,151,10819,Credit Card,MediSafe,Pending
+152,152,53008,UPI,Apollo Insurance,Pending
+153,153,43877,Credit Card,Apollo Insurance,Paid
+154,154,26521,Credit Card,MediSafe,Pending
+155,155,26303,UPI,None,Paid
+156,156,26314,Insurance,Apollo Insurance,Pending
+157,157,39322,UPI,None,Pending
+158,158,24355,Cash,None,Paid
+159,159,10459,UPI,Apollo Insurance,Pending
+160,160,42723,UPI,Apollo Insurance,Paid
+161,161,17346,UPI,Apollo Insurance,Paid
+162,162,58723,Cash,CareHealth,Pending
+163,163,56658,UPI,None,Paid
+164,164,51202,Cash,None,Pending
+165,165,42993,Cash,None,Pending
+166,166,26071,Credit Card,None,Pending
+167,167,50883,Cash,Apollo Insurance,Pending
+168,168,20341,Credit Card,MediSafe,Paid
+169,169,13253,Insurance,None,Paid
+170,170,56969,UPI,Apollo Insurance,Pending
+171,171,26544,UPI,MediSafe,Paid
+172,172,7030,Cash,None,Pending
+173,173,11017,Insurance,CareHealth,Pending
+174,174,13991,Credit Card,Apollo Insurance,Pending
+175,175,10155,Insurance,None,Pending
+176,176,34762,Credit Card,CareHealth,Paid
+177,177,57175,Credit Card,Apollo Insurance,Pending
+178,178,46897,UPI,CareHealth,Paid
+179,179,32309,Insurance,None,Paid
+180,180,32854,Insurance,None,Paid
+181,181,22477,UPI,CareHealth,Pending
+182,182,39577,Insurance,MediSafe,Paid
+183,183,55852,Credit Card,Apollo Insurance,Pending
+184,184,34223,Credit Card,Apollo Insurance,Pending
+185,185,58752,Cash,CareHealth,Pending
+186,186,34559,Insurance,Apollo Insurance,Paid
+187,187,29757,UPI,Apollo Insurance,Pending
+188,188,44482,UPI,Apollo Insurance,Pending
+189,189,22695,Cash,MediSafe,Paid
+190,190,14652,UPI,CareHealth,Paid
+191,191,42955,Insurance,CareHealth,Paid
+192,192,18527,Cash,None,Paid
+193,193,29539,Cash,Apollo Insurance,Paid
+194,194,25221,UPI,CareHealth,Pending
+195,195,22916,Cash,CareHealth,Paid
+196,196,45390,Insurance,MediSafe,Paid
+197,197,35701,Cash,Apollo Insurance,Paid
+198,198,24326,Insurance,None,Paid
+199,199,58509,Credit Card,Apollo Insurance,Paid
+200,200,51656,Insurance,None,Pending
+201,201,45019,UPI,None,Paid
+202,202,18063,Cash,None,Paid
+203,203,33662,Insurance,None,Pending
+204,204,18787,Insurance,MediSafe,Pending
+205,205,48696,UPI,CareHealth,Pending
+206,206,21615,Insurance,CareHealth,Pending
+207,207,12664,UPI,MediSafe,Pending
+208,208,18279,Credit Card,None,Paid
+209,209,59041,Cash,Apollo Insurance,Paid
+210,210,1818,Cash,CareHealth,Paid
+211,211,13187,Insurance,MediSafe,Pending
+212,212,54263,Cash,Apollo Insurance,Paid
+213,213,16413,Insurance,CareHealth,Pending
+214,214,15526,UPI,MediSafe,Pending
+215,215,6135,Cash,Apollo Insurance,Pending
+216,216,8105,Cash,CareHealth,Paid
+217,217,32699,Cash,CareHealth,Paid
+218,218,38173,Cash,Apollo Insurance,Pending
+219,219,6294,Insurance,None,Pending
+220,220,36333,Insurance,None,Pending
+221,221,47848,Cash,None,Pending
+222,222,38104,Insurance,Apollo Insurance,Pending
+223,223,8652,Cash,CareHealth,Pending
+224,224,1817,Credit Card,Apollo Insurance,Paid
+225,225,43144,UPI,MediSafe,Paid
+226,226,4774,Credit Card,CareHealth,Paid
+227,227,24969,UPI,CareHealth,Pending
+228,228,6603,Insurance,Apollo Insurance,Pending
+229,229,7543,Insurance,None,Pending
+230,230,22623,Credit Card,CareHealth,Paid
+231,231,38834,UPI,None,Pending
+232,232,21922,Cash,CareHealth,Pending
+233,233,50066,UPI,MediSafe,Paid
+234,234,27757,Insurance,CareHealth,Paid
+235,235,59762,Cash,CareHealth,Pending
+236,236,1624,UPI,None,Pending
+237,237,3797,Cash,MediSafe,Paid
+238,238,31428,Credit Card,CareHealth,Paid
+239,239,56046,Insurance,MediSafe,Pending
+240,240,41993,Cash,MediSafe,Paid
+241,241,3038,Credit Card,None,Paid
+242,242,2878,Cash,CareHealth,Paid
+243,243,12217,UPI,CareHealth,Paid
+244,244,8749,Credit Card,CareHealth,Pending
+245,245,40720,Credit Card,None,Paid
+246,246,46836,Insurance,Apollo Insurance,Pending
+247,247,17586,Insurance,MediSafe,Pending
+248,248,18492,UPI,CareHealth,Paid
+249,249,42247,Cash,CareHealth,Pending
+250,250,3260,Credit Card,CareHealth,Paid
+251,251,40880,Credit Card,MediSafe,Pending
+252,252,9632,Credit Card,None,Pending
+253,253,32303,Cash,None,Paid
+254,254,23459,Credit Card,MediSafe,Pending
+255,255,50061,Cash,MediSafe,Paid
+256,256,53810,Cash,MediSafe,Pending
+257,257,36002,Cash,MediSafe,Pending
+258,258,25203,Cash,None,Pending
+259,259,13696,Credit Card,Apollo Insurance,Pending
+260,260,24065,Cash,MediSafe,Pending
+261,261,5084,UPI,Apollo Insurance,Paid
+262,262,1095,Credit Card,CareHealth,Pending
+263,263,44821,UPI,None,Paid
+264,264,6999,Credit Card,MediSafe,Pending
+265,265,35704,Credit Card,MediSafe,Pending
+266,266,53139,Insurance,MediSafe,Pending
+267,267,24606,Insurance,CareHealth,Pending
+268,268,2372,Insurance,None,Paid
+269,269,56729,Cash,MediSafe,Paid
+270,270,34149,Cash,MediSafe,Pending
+271,271,51193,UPI,CareHealth,Pending
+272,272,9279,UPI,MediSafe,Pending
+273,273,24945,UPI,CareHealth,Paid
+274,274,2822,Cash,None,Pending
+275,275,25280,Cash,MediSafe,Paid
+276,276,22450,Cash,MediSafe,Paid
+277,277,2031,Cash,CareHealth,Pending
+278,278,19832,Insurance,None,Paid
+279,279,2974,UPI,MediSafe,Paid
+280,280,20144,Credit Card,CareHealth,Paid
+281,281,13690,Credit Card,Apollo Insurance,Paid
+282,282,3190,Credit Card,CareHealth,Paid
+283,283,24796,Credit Card,Apollo Insurance,Pending
+284,284,12569,Insurance,Apollo Insurance,Pending
+285,285,19649,UPI,None,Paid
+286,286,45455,Credit Card,None,Pending
+287,287,35385,Credit Card,Apollo Insurance,Pending
+288,288,10713,Credit Card,Apollo Insurance,Paid
+289,289,49711,Insurance,CareHealth,Paid
+290,290,58522,Cash,CareHealth,Paid
+291,291,59912,Credit Card,Apollo Insurance,Pending
+292,292,40454,UPI,CareHealth,Pending
+293,293,59979,Insurance,CareHealth,Paid
+294,294,18123,Cash,CareHealth,Pending
+295,295,47983,Credit Card,None,Pending
+296,296,8991,Credit Card,None,Paid
+297,297,46362,UPI,MediSafe,Pending
+298,298,56961,UPI,None,Paid
+299,299,28677,Credit Card,Apollo Insurance,Paid
+300,300,32657,Insurance,Apollo Insurance,Paid
+301,301,21412,Cash,Apollo Insurance,Pending
+302,302,54687,UPI,None,Pending
+303,303,43286,UPI,CareHealth,Paid
+304,304,14839,Cash,Apollo Insurance,Paid
+305,305,30761,UPI,Apollo Insurance,Paid
+306,306,32810,Credit Card,Apollo Insurance,Paid
+307,307,27276,Credit Card,MediSafe,Paid
+308,308,49518,Insurance,MediSafe,Pending
+309,309,29384,UPI,CareHealth,Paid
+310,310,38830,UPI,None,Paid
+311,311,44526,Credit Card,Apollo Insurance,Paid
+312,312,15256,Insurance,Apollo Insurance,Pending
+313,313,44217,UPI,CareHealth,Paid
+314,314,44513,Insurance,None,Pending
+315,315,4674,Cash,CareHealth,Pending
+316,316,48863,Credit Card,MediSafe,Pending
+317,317,5090,UPI,MediSafe,Pending
+318,318,34016,Insurance,None,Pending
+319,319,32783,Insurance,CareHealth,Paid
+320,320,6734,Credit Card,CareHealth,Pending
+321,321,53064,Credit Card,MediSafe,Paid
+322,322,59964,Credit Card,None,Paid
+323,323,57046,Cash,MediSafe,Paid
+324,324,26844,Insurance,Apollo Insurance,Paid
+325,325,34503,UPI,None,Paid
+326,326,48869,UPI,None,Pending
+327,327,51586,Cash,MediSafe,Paid
+328,328,34486,Cash,None,Pending
+329,329,1337,UPI,MediSafe,Paid
+330,330,23355,Credit Card,Apollo Insurance,Pending
+331,331,47018,UPI,MediSafe,Paid
+332,332,14332,UPI,MediSafe,Pending
+333,333,59433,Cash,None,Paid
+334,334,53147,Cash,CareHealth,Pending
+335,335,2457,UPI,Apollo Insurance,Paid
+336,336,58098,Insurance,MediSafe,Pending
+337,337,44728,Cash,None,Pending
+338,338,20400,Cash,CareHealth,Pending
+339,339,27597,Cash,Apollo Insurance,Pending
+340,340,39564,UPI,CareHealth,Pending
+341,341,24817,Cash,Apollo Insurance,Paid
+342,342,48658,UPI,None,Pending
+343,343,55501,Cash,Apollo Insurance,Pending
+344,344,41472,Credit Card,CareHealth,Paid
+345,345,53829,Cash,MediSafe,Pending
+346,346,29075,UPI,Apollo Insurance,Pending
+347,347,33656,Credit Card,CareHealth,Paid
+348,348,28570,UPI,Apollo Insurance,Paid
+349,349,15205,Insurance,None,Pending
+350,350,28042,Insurance,None,Pending
+351,351,20385,Cash,CareHealth,Pending
+352,352,32453,UPI,MediSafe,Paid
+353,353,17609,Credit Card,MediSafe,Paid
+354,354,19869,UPI,MediSafe,Paid
+355,355,39265,UPI,MediSafe,Paid
+356,356,41667,Credit Card,MediSafe,Paid
+357,357,33104,Insurance,Apollo Insurance,Paid
+358,358,38635,UPI,Apollo Insurance,Paid
+359,359,1130,UPI,None,Paid
+360,360,23633,Cash,None,Paid
+361,361,27414,Credit Card,None,Pending
+362,362,4919,UPI,CareHealth,Pending
+363,363,40390,Credit Card,Apollo Insurance,Paid
+364,364,57870,Insurance,CareHealth,Paid
+365,365,6235,Cash,Apollo Insurance,Paid
+366,366,4440,UPI,None,Paid
+367,367,39438,Credit Card,MediSafe,Paid
+368,368,58464,UPI,Apollo Insurance,Paid
+369,369,1387,UPI,Apollo Insurance,Paid
+370,370,40927,Credit Card,CareHealth,Pending
+371,371,9083,Insurance,Apollo Insurance,Pending
+372,372,33212,UPI,MediSafe,Paid
+373,373,9750,Cash,None,Paid
+374,374,18698,UPI,None,Paid
+375,375,50289,Cash,MediSafe,Paid
+376,376,18910,Credit Card,MediSafe,Paid
+377,377,42133,UPI,Apollo Insurance,Pending
+378,378,52661,Insurance,MediSafe,Pending
+379,379,6966,UPI,Apollo Insurance,Paid
+380,380,37431,Credit Card,None,Paid
+381,381,17947,Cash,Apollo Insurance,Paid
+382,382,5728,Cash,Apollo Insurance,Pending
+383,383,20469,UPI,Apollo Insurance,Pending
+384,384,9902,Credit Card,None,Paid
+385,385,8367,Cash,None,Paid
+386,386,23115,Credit Card,MediSafe,Paid
+387,387,42585,Credit Card,None,Paid
+388,388,12996,Credit Card,None,Pending
+389,389,14424,Credit Card,MediSafe,Pending
+390,390,46120,UPI,CareHealth,Pending
+391,391,17527,Insurance,Apollo Insurance,Paid
+392,392,17177,Cash,MediSafe,Pending
+393,393,50921,Cash,Apollo Insurance,Paid
+394,394,39088,Cash,Apollo Insurance,Pending
+395,395,36571,Credit Card,None,Pending
+396,396,22204,Credit Card,None,Paid
+397,397,10832,Insurance,None,Pending
+398,398,46689,Cash,Apollo Insurance,Pending
+399,399,42094,Insurance,CareHealth,Paid
+400,400,16149,UPI,MediSafe,Pending
+401,401,57206,Credit Card,CareHealth,Paid
+402,402,8941,UPI,MediSafe,Pending
+403,403,25929,Credit Card,MediSafe,Paid
+404,404,11292,UPI,MediSafe,Pending
+405,405,16394,Credit Card,Apollo Insurance,Pending
+406,406,42568,Cash,MediSafe,Pending
+407,407,6821,UPI,MediSafe,Pending
+408,408,12360,Cash,None,Paid
+409,409,58705,UPI,MediSafe,Paid
+410,410,58759,Cash,MediSafe,Paid
+411,411,55408,Insurance,None,Paid
+412,412,7426,Cash,MediSafe,Paid
+413,413,24106,Insurance,Apollo Insurance,Pending
+414,414,18102,Cash,Apollo Insurance,Paid
+415,415,58498,Cash,Apollo Insurance,Paid
+416,416,20439,Insurance,MediSafe,Paid
+417,417,57538,Insurance,CareHealth,Pending
+418,418,39893,Credit Card,Apollo Insurance,Pending
+419,419,2046,UPI,CareHealth,Paid
+420,420,23923,Cash,Apollo Insurance,Paid
+421,421,25120,Insurance,CareHealth,Paid
+422,422,47187,Credit Card,None,Pending
+423,423,50755,Credit Card,None,Paid
+424,424,26783,UPI,Apollo Insurance,Pending
+425,425,44660,Credit Card,Apollo Insurance,Pending
+426,426,44042,Cash,MediSafe,Paid
+427,427,40943,Cash,MediSafe,Paid
+428,428,46729,Insurance,Apollo Insurance,Paid
+429,429,26687,Insurance,None,Paid
+430,430,21525,Cash,CareHealth,Pending
+431,431,24893,Cash,CareHealth,Paid
+432,432,12484,UPI,None,Paid
+433,433,44020,Cash,None,Pending
+434,434,15975,Credit Card,MediSafe,Pending
+435,435,8432,Credit Card,MediSafe,Paid
+436,436,53414,Credit Card,CareHealth,Paid
+437,437,5120,UPI,None,Paid
+438,438,45523,Cash,Apollo Insurance,Pending
+439,439,44183,UPI,MediSafe,Paid
+440,440,51807,UPI,CareHealth,Paid
+441,441,19784,Credit Card,Apollo Insurance,Paid
+442,442,36282,Insurance,CareHealth,Paid
+443,443,28268,Insurance,None,Paid
+444,444,51969,UPI,Apollo Insurance,Pending
+445,445,18944,Credit Card,CareHealth,Paid
+446,446,22960,Credit Card,CareHealth,Paid
+447,447,31453,Credit Card,Apollo Insurance,Paid
+448,448,3160,Cash,None,Pending
+449,449,31375,Cash,CareHealth,Pending
+450,450,20072,Credit Card,Apollo Insurance,Pending
+451,451,16515,Cash,Apollo Insurance,Pending
+452,452,39608,Cash,MediSafe,Paid
+453,453,31457,Credit Card,MediSafe,Pending
+454,454,31188,UPI,MediSafe,Paid
+455,455,36751,Insurance,MediSafe,Pending
+456,456,23717,Cash,None,Pending
+457,457,11552,UPI,CareHealth,Pending
+458,458,12112,Credit Card,Apollo Insurance,Paid
+459,459,7239,Cash,None,Pending
+460,460,33584,Cash,MediSafe,Pending
+461,461,7899,UPI,None,Paid
+462,462,59186,Insurance,CareHealth,Paid
+463,463,39107,UPI,Apollo Insurance,Pending
+464,464,52853,Insurance,None,Pending
+465,465,8637,Cash,CareHealth,Paid
+466,466,19242,UPI,None,Paid
+467,467,11672,Insurance,CareHealth,Paid
+468,468,22336,Insurance,MediSafe,Pending
+469,469,26193,Cash,CareHealth,Paid
+470,470,38037,Cash,None,Paid
+471,471,53641,UPI,None,Paid
+472,472,3863,Insurance,MediSafe,Pending
+473,473,53731,Credit Card,CareHealth,Pending
+474,474,9362,UPI,MediSafe,Pending
+475,475,52585,UPI,Apollo Insurance,Pending
+476,476,31087,Credit Card,MediSafe,Pending
+477,477,39990,Insurance,Apollo Insurance,Pending
+478,478,4812,Credit Card,MediSafe,Paid
+479,479,7007,Credit Card,CareHealth,Paid
+480,480,44444,Cash,CareHealth,Paid
+481,481,24074,UPI,None,Pending
+482,482,1035,UPI,None,Paid
+483,483,52542,Cash,MediSafe,Pending
+484,484,17369,Cash,None,Paid
+485,485,41647,Insurance,Apollo Insurance,Paid
+486,486,44813,UPI,None,Paid
+487,487,59220,Insurance,MediSafe,Pending
+488,488,45241,Credit Card,MediSafe,Paid
+489,489,53643,Cash,CareHealth,Paid
+490,490,54187,Cash,None,Paid
+491,491,44359,UPI,Apollo Insurance,Pending
+492,492,11744,Credit Card,None,Pending
+493,493,57411,Insurance,Apollo Insurance,Pending
+494,494,41811,Insurance,CareHealth,Paid
+495,495,59493,UPI,CareHealth,Paid
+496,496,35194,Credit Card,None,Pending
+497,497,21975,Credit Card,None,Paid
+498,498,46160,Insurance,MediSafe,Paid
+499,499,29174,UPI,CareHealth,Paid
+500,500,38059,Credit Card,CareHealth,Pending

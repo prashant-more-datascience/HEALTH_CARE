@@ -1,0 +1,501 @@
+appointment_id,patient_id,doctor_id,appointment_date,diagnosis,status
+1,18,27,31-01-2025,Flu,No-show
+2,56,23,09-02-2025,Injury,No-show
+3,180,3,06-01-2025,Injury,Completed
+4,197,11,06-11-2025,Cancer Checkup,Cancelled
+5,197,38,23-05-2025,Flu,Completed
+6,169,4,09-05-2025,Migraine,Cancelled
+7,122,30,13-09-2025,Skin Allergy,Completed
+8,117,4,20-05-2025,Flu,Cancelled
+9,177,8,14-09-2025,Injury,Completed
+10,29,20,12-11-2024,Skin Allergy,Cancelled
+11,158,9,19-07-2025,Migraine,Cancelled
+12,62,14,22-09-2025,Skin Allergy,No-show
+13,82,1,25-03-2025,Migraine,Completed
+14,76,35,12-11-2024,Skin Allergy,Completed
+15,161,38,03-02-2025,Diabetes,Completed
+16,76,37,29-04-2025,Diabetes,Cancelled
+17,119,19,06-03-2025,Injury,Cancelled
+18,120,21,02-04-2025,Cancer Checkup,No-show
+19,197,6,05-02-2025,Cancer Checkup,No-show
+20,16,31,08-02-2025,Migraine,No-show
+21,182,17,03-12-2024,Migraine,Cancelled
+22,188,20,10-01-2025,Cancer Checkup,No-show
+23,181,24,24-06-2025,Diabetes,Completed
+24,14,5,10-02-2025,Migraine,Completed
+25,171,1,24-08-2025,Flu,Completed
+26,101,4,11-12-2024,Cancer Checkup,Cancelled
+27,172,20,24-01-2025,Injury,No-show
+28,96,40,08-02-2025,Flu,Completed
+29,47,16,13-07-2025,Migraine,No-show
+30,136,18,21-11-2024,Cancer Checkup,No-show
+31,72,17,19-06-2025,Cancer Checkup,Cancelled
+32,132,28,30-06-2025,Flu,No-show
+33,108,22,19-02-2025,Injury,Completed
+34,17,36,11-02-2025,Flu,No-show
+35,8,34,17-06-2025,Migraine,No-show
+36,51,16,17-04-2025,Flu,Cancelled
+37,197,11,07-08-2025,Injury,Cancelled
+38,194,7,30-01-2025,Diabetes,Cancelled
+39,132,7,29-06-2025,Flu,Cancelled
+40,66,4,31-12-2024,Cancer Checkup,Cancelled
+41,17,12,06-02-2025,Migraine,No-show
+42,81,29,06-12-2024,Cancer Checkup,No-show
+43,144,37,11-08-2025,Migraine,No-show
+44,29,6,19-08-2025,Diabetes,Cancelled
+45,169,8,21-10-2025,Diabetes,Cancelled
+46,82,31,25-01-2025,Injury,Completed
+47,128,31,13-05-2025,Diabetes,No-show
+48,146,21,13-06-2025,Diabetes,Completed
+49,138,40,15-01-2025,Injury,Completed
+50,44,6,16-06-2025,Flu,Cancelled
+51,11,40,24-09-2025,Cancer Checkup,No-show
+52,38,20,12-11-2024,Flu,Completed
+53,80,26,11-06-2025,Migraine,No-show
+54,132,34,21-08-2025,Skin Allergy,No-show
+55,63,28,15-12-2024,Diabetes,No-show
+56,13,14,18-12-2024,Skin Allergy,No-show
+57,27,30,13-09-2025,Migraine,Cancelled
+58,61,24,18-12-2024,Cancer Checkup,Cancelled
+59,100,13,15-11-2024,Diabetes,Completed
+60,114,1,21-06-2025,Cancer Checkup,Cancelled
+61,130,26,17-08-2025,Diabetes,Cancelled
+62,79,34,21-12-2024,Skin Allergy,No-show
+63,159,30,06-07-2025,Cancer Checkup,Cancelled
+64,70,15,10-02-2025,Migraine,Cancelled
+65,147,37,18-04-2025,Injury,No-show
+66,42,21,24-02-2025,Injury,No-show
+67,2,31,07-06-2025,Diabetes,Completed
+68,66,23,04-11-2025,Cancer Checkup,Completed
+69,175,22,07-02-2025,Skin Allergy,Cancelled
+70,130,30,04-12-2024,Skin Allergy,Completed
+71,43,15,16-04-2025,Injury,Completed
+72,91,1,13-03-2025,Skin Allergy,No-show
+73,62,26,16-12-2024,Skin Allergy,Completed
+74,30,17,27-09-2025,Diabetes,Cancelled
+75,81,26,10-08-2025,Cancer Checkup,Cancelled
+76,129,12,18-11-2024,Migraine,Cancelled
+77,90,13,12-12-2024,Flu,Cancelled
+78,140,28,16-09-2025,Injury,Cancelled
+79,49,6,24-12-2024,Cancer Checkup,Completed
+80,55,35,17-01-2025,Cancer Checkup,Completed
+81,134,33,18-10-2025,Injury,Cancelled
+82,15,40,13-02-2025,Diabetes,No-show
+83,131,13,02-06-2025,Migraine,No-show
+84,127,40,15-12-2024,Skin Allergy,No-show
+85,14,20,19-12-2024,Injury,Completed
+86,115,15,15-03-2025,Diabetes,No-show
+87,136,9,03-12-2024,Skin Allergy,Completed
+88,192,37,22-10-2025,Skin Allergy,No-show
+89,121,39,21-07-2025,Migraine,Cancelled
+90,161,16,01-10-2025,Cancer Checkup,No-show
+91,9,14,31-12-2024,Flu,Cancelled
+92,186,21,25-10-2025,Diabetes,Cancelled
+93,183,25,27-09-2025,Cancer Checkup,No-show
+94,17,24,01-09-2025,Migraine,Cancelled
+95,187,12,30-11-2024,Cancer Checkup,Completed
+96,176,13,20-05-2025,Flu,No-show
+97,69,35,13-07-2025,Flu,Completed
+98,173,31,01-08-2025,Cancer Checkup,Completed
+99,70,23,16-05-2025,Cancer Checkup,No-show
+100,96,4,08-02-2025,Migraine,Completed
+101,169,6,19-03-2025,Injury,Cancelled
+102,56,12,03-04-2025,Diabetes,Cancelled
+103,26,31,12-12-2024,Flu,Completed
+104,43,28,07-01-2025,Injury,Cancelled
+105,158,23,05-11-2025,Skin Allergy,Completed
+106,101,18,08-08-2025,Injury,No-show
+107,21,2,17-07-2025,Injury,No-show
+108,145,4,18-02-2025,Migraine,Completed
+109,51,12,04-05-2025,Flu,Completed
+110,156,6,08-02-2025,Cancer Checkup,Completed
+111,96,23,10-05-2025,Cancer Checkup,No-show
+112,153,7,28-12-2024,Skin Allergy,Cancelled
+113,116,27,17-10-2025,Skin Allergy,No-show
+114,37,34,11-10-2025,Flu,No-show
+115,115,21,02-01-2025,Diabetes,Completed
+116,180,24,29-09-2025,Injury,Cancelled
+117,187,33,23-12-2024,Injury,Completed
+118,74,37,16-01-2025,Flu,Completed
+119,84,1,27-07-2025,Injury,Cancelled
+120,14,33,16-11-2024,Diabetes,Cancelled
+121,177,35,30-06-2025,Diabetes,Cancelled
+122,195,23,16-01-2025,Flu,Completed
+123,100,31,20-01-2025,Skin Allergy,Cancelled
+124,3,33,02-03-2025,Injury,Cancelled
+125,154,1,21-03-2025,Skin Allergy,No-show
+126,104,25,31-08-2025,Injury,No-show
+127,165,20,14-07-2025,Injury,No-show
+128,81,5,06-10-2025,Skin Allergy,No-show
+129,154,19,03-09-2025,Cancer Checkup,Completed
+130,16,36,27-08-2025,Cancer Checkup,Cancelled
+131,99,24,10-04-2025,Diabetes,Completed
+132,108,16,28-07-2025,Injury,No-show
+133,1,38,11-03-2025,Injury,No-show
+134,177,10,31-03-2025,Diabetes,Completed
+135,94,26,13-11-2024,Skin Allergy,Completed
+136,29,4,22-08-2025,Flu,Completed
+137,41,2,07-09-2025,Migraine,No-show
+138,26,30,30-12-2024,Migraine,Cancelled
+139,119,19,21-10-2025,Diabetes,No-show
+140,29,8,17-05-2025,Diabetes,Cancelled
+141,9,20,04-06-2025,Migraine,Completed
+142,19,23,24-12-2024,Injury,Cancelled
+143,81,38,08-04-2025,Diabetes,No-show
+144,44,16,09-08-2025,Skin Allergy,Completed
+145,31,31,25-11-2024,Flu,No-show
+146,174,23,04-07-2025,Skin Allergy,Cancelled
+147,122,33,29-10-2025,Migraine,Cancelled
+148,73,30,03-11-2025,Cancer Checkup,Cancelled
+149,7,39,21-05-2025,Skin Allergy,Cancelled
+150,124,18,09-04-2025,Skin Allergy,Cancelled
+151,8,2,09-01-2025,Injury,No-show
+152,89,30,21-11-2024,Migraine,Completed
+153,39,18,08-05-2025,Flu,Cancelled
+154,189,19,17-01-2025,Skin Allergy,No-show
+155,70,16,25-05-2025,Injury,Cancelled
+156,165,17,10-08-2025,Diabetes,Cancelled
+157,147,29,24-03-2025,Skin Allergy,No-show
+158,121,27,04-09-2025,Skin Allergy,Completed
+159,41,35,19-05-2025,Diabetes,No-show
+160,83,39,08-01-2025,Cancer Checkup,Completed
+161,33,14,28-08-2025,Injury,No-show
+162,106,29,07-10-2025,Migraine,Cancelled
+163,4,11,29-01-2025,Skin Allergy,Cancelled
+164,93,36,11-05-2025,Flu,Completed
+165,6,34,01-03-2025,Skin Allergy,Completed
+166,163,18,25-06-2025,Diabetes,Cancelled
+167,77,25,29-01-2025,Migraine,No-show
+168,73,32,25-01-2025,Flu,Cancelled
+169,84,17,19-09-2025,Diabetes,Cancelled
+170,180,23,06-03-2025,Cancer Checkup,No-show
+171,7,28,08-08-2025,Skin Allergy,Cancelled
+172,3,34,19-03-2025,Skin Allergy,Cancelled
+173,32,33,01-12-2024,Injury,No-show
+174,41,17,26-12-2024,Skin Allergy,Cancelled
+175,104,14,26-03-2025,Flu,Cancelled
+176,21,6,16-11-2024,Skin Allergy,No-show
+177,7,23,08-11-2024,Diabetes,No-show
+178,112,33,25-08-2025,Cancer Checkup,Completed
+179,157,6,02-04-2025,Flu,Completed
+180,173,37,18-07-2025,Diabetes,Completed
+181,11,37,10-06-2025,Flu,Completed
+182,42,28,10-09-2025,Injury,Completed
+183,103,29,29-04-2025,Cancer Checkup,Cancelled
+184,41,15,26-11-2024,Skin Allergy,Cancelled
+185,22,31,30-09-2025,Flu,Completed
+186,135,31,15-02-2025,Migraine,No-show
+187,98,38,05-07-2025,Injury,Cancelled
+188,2,35,29-04-2025,Diabetes,No-show
+189,175,5,09-05-2025,Injury,Cancelled
+190,47,1,22-08-2025,Skin Allergy,No-show
+191,14,32,07-09-2025,Migraine,Cancelled
+192,189,10,21-06-2025,Cancer Checkup,Completed
+193,20,28,13-04-2025,Migraine,No-show
+194,173,35,29-08-2025,Injury,No-show
+195,59,11,05-09-2025,Injury,Cancelled
+196,163,19,01-03-2025,Cancer Checkup,Cancelled
+197,6,37,30-01-2025,Injury,Completed
+198,80,35,04-02-2025,Diabetes,Completed
+199,189,20,27-08-2025,Migraine,Cancelled
+200,132,40,11-04-2025,Skin Allergy,Cancelled
+201,32,30,09-01-2025,Cancer Checkup,Cancelled
+202,164,20,29-05-2025,Diabetes,No-show
+203,136,36,01-10-2025,Diabetes,No-show
+204,145,24,08-11-2024,Migraine,Cancelled
+205,12,24,19-10-2025,Diabetes,Completed
+206,22,38,03-04-2025,Injury,No-show
+207,21,12,12-01-2025,Skin Allergy,Completed
+208,112,15,23-07-2025,Diabetes,Cancelled
+209,84,7,05-07-2025,Diabetes,Completed
+210,78,29,05-04-2025,Cancer Checkup,Completed
+211,133,12,18-01-2025,Diabetes,No-show
+212,180,13,01-08-2025,Cancer Checkup,Cancelled
+213,101,23,30-08-2025,Diabetes,No-show
+214,44,38,26-09-2025,Diabetes,Completed
+215,133,21,16-02-2025,Skin Allergy,No-show
+216,155,10,30-05-2025,Diabetes,Cancelled
+217,100,40,12-10-2025,Injury,Completed
+218,14,20,18-10-2025,Skin Allergy,Completed
+219,76,9,06-01-2025,Diabetes,Completed
+220,106,6,21-11-2024,Injury,Completed
+221,163,10,03-03-2025,Injury,No-show
+222,172,15,14-01-2025,Cancer Checkup,Cancelled
+223,13,37,18-01-2025,Migraine,No-show
+224,20,12,26-04-2025,Migraine,Cancelled
+225,29,40,28-05-2025,Injury,Completed
+226,60,34,21-08-2025,Flu,No-show
+227,145,30,25-02-2025,Migraine,No-show
+228,184,27,25-05-2025,Skin Allergy,Completed
+229,7,19,20-04-2025,Diabetes,Completed
+230,174,40,19-12-2024,Injury,Cancelled
+231,28,33,05-09-2025,Injury,Cancelled
+232,55,37,24-06-2025,Cancer Checkup,Completed
+233,196,26,25-07-2025,Skin Allergy,Cancelled
+234,21,10,23-05-2025,Flu,No-show
+235,159,32,21-02-2025,Injury,No-show
+236,114,29,09-03-2025,Skin Allergy,No-show
+237,145,16,17-06-2025,Cancer Checkup,Cancelled
+238,58,2,23-02-2025,Cancer Checkup,Cancelled
+239,196,10,19-08-2025,Migraine,Completed
+240,35,16,11-07-2025,Diabetes,Cancelled
+241,58,22,04-02-2025,Skin Allergy,Cancelled
+242,21,14,28-11-2024,Skin Allergy,Completed
+243,39,14,18-06-2025,Injury,Cancelled
+244,85,3,21-05-2025,Skin Allergy,Cancelled
+245,152,15,15-04-2025,Injury,Completed
+246,63,8,28-02-2025,Flu,Completed
+247,90,30,07-02-2025,Injury,Cancelled
+248,48,12,05-12-2024,Injury,Completed
+249,102,7,28-02-2025,Diabetes,Cancelled
+250,185,31,25-01-2025,Migraine,Completed
+251,33,24,03-05-2025,Cancer Checkup,Cancelled
+252,36,32,15-12-2024,Flu,Cancelled
+253,73,19,03-11-2025,Skin Allergy,No-show
+254,56,2,16-09-2025,Diabetes,Cancelled
+255,26,8,28-10-2025,Skin Allergy,Completed
+256,115,13,20-11-2024,Cancer Checkup,Cancelled
+257,33,7,24-09-2025,Cancer Checkup,No-show
+258,63,17,24-03-2025,Injury,Completed
+259,168,32,24-12-2024,Migraine,No-show
+260,6,3,03-09-2025,Injury,No-show
+261,155,13,24-11-2024,Diabetes,Completed
+262,143,5,29-05-2025,Flu,No-show
+263,92,4,04-07-2025,Diabetes,No-show
+264,180,26,02-04-2025,Cancer Checkup,No-show
+265,22,11,22-02-2025,Injury,No-show
+266,166,35,09-10-2025,Skin Allergy,Cancelled
+267,188,19,16-04-2025,Cancer Checkup,Completed
+268,177,24,12-07-2025,Migraine,Completed
+269,98,21,04-09-2025,Flu,Cancelled
+270,50,5,02-11-2025,Flu,Completed
+271,31,37,05-03-2025,Migraine,Completed
+272,81,8,20-09-2025,Diabetes,Completed
+273,6,18,24-01-2025,Skin Allergy,No-show
+274,182,30,17-09-2025,Diabetes,Cancelled
+275,17,10,06-12-2024,Skin Allergy,Completed
+276,45,29,21-10-2025,Flu,Completed
+277,107,7,20-03-2025,Migraine,Completed
+278,116,36,04-04-2025,Migraine,No-show
+279,40,40,17-07-2025,Injury,No-show
+280,110,7,21-05-2025,Cancer Checkup,Completed
+281,135,18,22-05-2025,Injury,Cancelled
+282,193,36,30-11-2024,Injury,Cancelled
+283,70,35,24-11-2024,Skin Allergy,Cancelled
+284,126,6,18-06-2025,Skin Allergy,Cancelled
+285,183,38,28-03-2025,Injury,Cancelled
+286,157,7,07-12-2024,Injury,Cancelled
+287,71,4,27-09-2025,Injury,Completed
+288,46,6,11-08-2025,Cancer Checkup,No-show
+289,173,2,11-11-2024,Injury,Completed
+290,170,39,08-08-2025,Injury,No-show
+291,63,33,23-10-2025,Flu,No-show
+292,110,6,19-06-2025,Cancer Checkup,Cancelled
+293,138,3,21-03-2025,Skin Allergy,Completed
+294,181,40,13-10-2025,Injury,Cancelled
+295,40,30,19-06-2025,Flu,Completed
+296,118,27,11-07-2025,Migraine,No-show
+297,87,20,02-10-2025,Migraine,Completed
+298,114,13,06-02-2025,Flu,No-show
+299,91,21,11-07-2025,Injury,Completed
+300,89,26,31-12-2024,Injury,Cancelled
+301,98,27,23-07-2025,Cancer Checkup,No-show
+302,166,26,24-05-2025,Migraine,No-show
+303,138,23,20-04-2025,Flu,Cancelled
+304,120,20,16-02-2025,Injury,Cancelled
+305,24,4,07-10-2025,Injury,Cancelled
+306,151,19,12-09-2025,Diabetes,No-show
+307,113,18,28-10-2025,Migraine,Cancelled
+308,103,7,13-08-2025,Migraine,Cancelled
+309,144,12,29-07-2025,Diabetes,No-show
+310,31,5,10-11-2024,Cancer Checkup,Completed
+311,145,19,26-02-2025,Skin Allergy,Completed
+312,58,25,07-04-2025,Migraine,Cancelled
+313,36,39,27-07-2025,Migraine,Completed
+314,114,5,02-11-2025,Migraine,No-show
+315,5,5,30-05-2025,Migraine,Completed
+316,12,37,07-11-2025,Diabetes,No-show
+317,134,27,17-08-2025,Skin Allergy,No-show
+318,138,31,07-07-2025,Cancer Checkup,Completed
+319,186,18,25-08-2025,Migraine,Cancelled
+320,138,2,20-07-2025,Flu,No-show
+321,172,24,06-12-2024,Skin Allergy,Cancelled
+322,50,20,13-08-2025,Skin Allergy,Completed
+323,6,29,18-04-2025,Diabetes,Completed
+324,156,30,29-06-2025,Skin Allergy,Cancelled
+325,135,31,24-05-2025,Flu,No-show
+326,9,37,08-04-2025,Skin Allergy,Cancelled
+327,104,24,10-01-2025,Diabetes,No-show
+328,65,27,20-10-2025,Skin Allergy,Completed
+329,119,20,08-03-2025,Skin Allergy,Cancelled
+330,195,13,08-03-2025,Injury,No-show
+331,143,17,08-03-2025,Cancer Checkup,Completed
+332,93,13,24-01-2025,Skin Allergy,Completed
+333,49,12,18-01-2025,Diabetes,Completed
+334,134,25,13-11-2024,Injury,Completed
+335,72,3,07-05-2025,Flu,Cancelled
+336,180,31,09-10-2025,Skin Allergy,No-show
+337,175,8,03-10-2025,Diabetes,No-show
+338,57,34,31-08-2025,Cancer Checkup,Completed
+339,43,36,04-08-2025,Diabetes,No-show
+340,118,3,02-09-2025,Flu,Completed
+341,3,13,13-04-2025,Cancer Checkup,Completed
+342,76,29,21-06-2025,Migraine,Completed
+343,112,8,04-03-2025,Cancer Checkup,Completed
+344,15,22,04-10-2025,Flu,No-show
+345,43,25,28-03-2025,Cancer Checkup,No-show
+346,16,22,28-05-2025,Injury,No-show
+347,77,31,11-10-2025,Injury,No-show
+348,129,12,05-06-2025,Cancer Checkup,Completed
+349,196,18,19-12-2024,Cancer Checkup,Completed
+350,32,1,02-07-2025,Cancer Checkup,Completed
+351,82,29,28-08-2025,Cancer Checkup,Completed
+352,25,14,28-10-2025,Flu,No-show
+353,99,5,16-11-2024,Skin Allergy,Completed
+354,8,14,15-08-2025,Skin Allergy,Cancelled
+355,89,38,09-01-2025,Injury,No-show
+356,130,30,06-11-2025,Skin Allergy,Cancelled
+357,24,6,12-01-2025,Diabetes,No-show
+358,70,1,20-10-2025,Cancer Checkup,Completed
+359,26,24,17-02-2025,Cancer Checkup,Completed
+360,17,11,20-08-2025,Skin Allergy,Cancelled
+361,161,3,21-01-2025,Injury,Cancelled
+362,49,8,08-08-2025,Skin Allergy,Cancelled
+363,83,3,14-01-2025,Skin Allergy,Cancelled
+364,153,22,03-11-2025,Flu,No-show
+365,185,4,05-10-2025,Cancer Checkup,Completed
+366,100,26,16-01-2025,Skin Allergy,Completed
+367,194,16,07-07-2025,Injury,Completed
+368,98,15,10-04-2025,Diabetes,No-show
+369,95,29,04-12-2024,Skin Allergy,Completed
+370,17,15,15-07-2025,Flu,Completed
+371,164,14,07-08-2025,Cancer Checkup,Completed
+372,23,8,24-03-2025,Flu,No-show
+373,1,21,07-09-2025,Diabetes,No-show
+374,169,19,10-09-2025,Cancer Checkup,Completed
+375,77,13,03-08-2025,Flu,No-show
+376,133,13,26-06-2025,Skin Allergy,No-show
+377,131,29,18-12-2024,Flu,No-show
+378,55,22,21-04-2025,Injury,Cancelled
+379,10,2,24-02-2025,Cancer Checkup,No-show
+380,195,38,02-07-2025,Migraine,No-show
+381,12,26,05-10-2025,Migraine,No-show
+382,138,34,15-03-2025,Diabetes,Completed
+383,173,35,02-01-2025,Skin Allergy,Completed
+384,37,39,17-06-2025,Injury,Completed
+385,10,17,23-12-2024,Migraine,Cancelled
+386,127,38,06-12-2024,Injury,Completed
+387,126,9,09-04-2025,Skin Allergy,No-show
+388,180,7,01-03-2025,Skin Allergy,Completed
+389,91,15,29-07-2025,Cancer Checkup,No-show
+390,94,33,03-07-2025,Cancer Checkup,Completed
+391,48,11,23-01-2025,Skin Allergy,Completed
+392,159,10,16-06-2025,Migraine,Cancelled
+393,153,12,18-04-2025,Injury,Cancelled
+394,66,2,13-10-2025,Cancer Checkup,Completed
+395,52,34,05-05-2025,Skin Allergy,Completed
+396,155,40,10-02-2025,Skin Allergy,No-show
+397,176,14,24-03-2025,Injury,No-show
+398,78,30,11-01-2025,Skin Allergy,No-show
+399,148,13,26-09-2025,Migraine,Cancelled
+400,83,26,26-11-2024,Diabetes,Cancelled
+401,176,22,09-08-2025,Migraine,No-show
+402,20,7,02-03-2025,Migraine,No-show
+403,177,26,21-03-2025,Migraine,No-show
+404,92,29,14-07-2025,Diabetes,Cancelled
+405,63,23,11-09-2025,Injury,No-show
+406,1,17,21-07-2025,Migraine,Completed
+407,108,8,11-06-2025,Flu,Completed
+408,28,37,14-03-2025,Cancer Checkup,No-show
+409,110,9,09-10-2025,Migraine,Completed
+410,7,22,14-11-2024,Skin Allergy,Completed
+411,148,15,21-10-2025,Flu,No-show
+412,183,7,04-08-2025,Diabetes,Completed
+413,7,40,19-10-2025,Migraine,No-show
+414,91,2,30-04-2025,Diabetes,Cancelled
+415,121,3,05-08-2025,Diabetes,Cancelled
+416,141,7,23-02-2025,Injury,Cancelled
+417,45,24,14-02-2025,Injury,No-show
+418,18,21,27-09-2025,Flu,Cancelled
+419,142,34,02-09-2025,Skin Allergy,Cancelled
+420,74,2,10-09-2025,Skin Allergy,No-show
+421,170,31,27-08-2025,Injury,Completed
+422,178,15,24-03-2025,Diabetes,No-show
+423,113,39,26-06-2025,Diabetes,Cancelled
+424,156,33,10-12-2024,Skin Allergy,Cancelled
+425,63,30,13-07-2025,Diabetes,No-show
+426,161,2,29-08-2025,Flu,Cancelled
+427,20,24,27-10-2025,Injury,Completed
+428,162,17,18-12-2024,Flu,No-show
+429,113,13,03-08-2025,Skin Allergy,Completed
+430,10,40,02-01-2025,Cancer Checkup,No-show
+431,67,28,04-03-2025,Diabetes,No-show
+432,128,13,13-12-2024,Flu,Cancelled
+433,161,26,02-02-2025,Injury,Completed
+434,115,8,23-10-2025,Injury,Completed
+435,29,15,24-12-2024,Injury,No-show
+436,127,26,04-09-2025,Skin Allergy,Completed
+437,153,40,21-06-2025,Diabetes,No-show
+438,46,37,07-12-2024,Cancer Checkup,No-show
+439,35,18,04-02-2025,Cancer Checkup,No-show
+440,194,1,13-06-2025,Diabetes,Completed
+441,197,25,27-01-2025,Injury,Completed
+442,40,1,01-10-2025,Skin Allergy,Cancelled
+443,172,23,28-05-2025,Diabetes,No-show
+444,41,17,25-11-2024,Injury,Cancelled
+445,164,25,22-12-2024,Flu,Completed
+446,52,35,08-11-2024,Cancer Checkup,No-show
+447,156,3,10-08-2025,Migraine,No-show
+448,123,22,26-05-2025,Diabetes,Completed
+449,73,34,30-12-2024,Skin Allergy,Cancelled
+450,82,29,27-03-2025,Flu,No-show
+451,19,7,31-03-2025,Skin Allergy,Completed
+452,1,24,19-12-2024,Injury,Completed
+453,145,28,29-03-2025,Diabetes,No-show
+454,111,1,26-04-2025,Cancer Checkup,Cancelled
+455,33,27,30-07-2025,Diabetes,Completed
+456,25,40,26-08-2025,Cancer Checkup,Completed
+457,40,19,03-07-2025,Skin Allergy,No-show
+458,148,15,10-07-2025,Flu,Completed
+459,39,32,29-06-2025,Cancer Checkup,Cancelled
+460,111,1,29-09-2025,Migraine,Completed
+461,19,5,17-04-2025,Injury,Completed
+462,87,11,29-11-2024,Flu,Completed
+463,7,21,13-03-2025,Migraine,No-show
+464,14,3,22-04-2025,Injury,Completed
+465,132,20,25-06-2025,Diabetes,Completed
+466,44,25,31-07-2025,Migraine,No-show
+467,196,35,23-03-2025,Migraine,No-show
+468,159,1,08-06-2025,Cancer Checkup,No-show
+469,161,12,16-11-2024,Skin Allergy,Completed
+470,58,27,02-01-2025,Skin Allergy,No-show
+471,114,30,11-02-2025,Injury,No-show
+472,147,4,11-05-2025,Flu,Completed
+473,175,26,09-10-2025,Skin Allergy,Completed
+474,136,7,28-03-2025,Flu,Completed
+475,107,5,27-10-2025,Flu,Completed
+476,108,20,22-06-2025,Cancer Checkup,Completed
+477,176,5,22-02-2025,Migraine,Completed
+478,131,17,04-05-2025,Diabetes,Cancelled
+479,33,20,10-07-2025,Skin Allergy,Cancelled
+480,46,25,03-09-2025,Flu,No-show
+481,102,11,31-12-2024,Migraine,Completed
+482,33,24,12-05-2025,Skin Allergy,Completed
+483,76,14,04-11-2025,Flu,Cancelled
+484,41,28,04-08-2025,Flu,Cancelled
+485,168,9,16-03-2025,Skin Allergy,Completed
+486,17,15,06-05-2025,Injury,Cancelled
+487,181,35,30-12-2024,Cancer Checkup,Cancelled
+488,77,6,19-03-2025,Diabetes,Completed
+489,12,14,13-05-2025,Migraine,Completed
+490,129,13,15-05-2025,Cancer Checkup,Cancelled
+491,175,22,05-08-2025,Migraine,Completed
+492,24,20,09-06-2025,Flu,Completed
+493,158,28,11-03-2025,Cancer Checkup,Cancelled
+494,135,38,22-03-2025,Diabetes,Completed
+495,1,10,10-02-2025,Skin Allergy,Cancelled
+496,116,24,15-06-2025,Skin Allergy,Completed
+497,83,33,06-12-2024,Diabetes,Completed
+498,34,40,03-06-2025,Migraine,Completed
+499,176,15,19-07-2025,Diabetes,Completed
+500,158,16,08-06-2025,Diabetes,Cancelled
